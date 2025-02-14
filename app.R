@@ -3,7 +3,6 @@ library(purrr)
 library(gapminder)
 library(highcharter)
 
-
 ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
@@ -81,6 +80,5 @@ server <- function(input, output) {
         paste0("$", round(data_cards()$medianGDP, 2))
     })
 }
-
 
 shinyApp(ui = ui, server = server)
