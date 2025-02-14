@@ -1,5 +1,6 @@
 library(shiny)
-library(purrr)
+# library(purrr)
+# library(dbplyr)
 library(gapminder)
 library(highcharter)
 
