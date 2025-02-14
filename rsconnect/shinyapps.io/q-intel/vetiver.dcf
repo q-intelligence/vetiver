@@ -1,0 +1,12 @@
+name: vetiver
+title: vetiver
+username: q-intel
+account: q-intel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14005068
+bundleId: 9801946
+url: https://q-intel.shinyapps.io/vetiver/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
