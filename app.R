@@ -3,7 +3,6 @@ library(purrr)
 library(gapminder)
 library(highcharter)
 
-
 ui <- fluidPage(
     sidebarLayout(
         sidebarPanel(
